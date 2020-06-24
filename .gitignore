@@ -2,6 +2,7 @@
 .git
 .c9
 
+
 # ignore the repositories where webpack puts the bundles
 dist/
 public/
